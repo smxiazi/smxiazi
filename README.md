@@ -6,5 +6,5 @@
 ![smxiazi](https://github-readme-stats.vercel.app/api?username=smxiazi&show_icons=true&theme=tokyonight)
 
 
-### Visitors
+### 访问数量
 ![smxiazi](https://profile-counter.glitch.me/smxiazi/count.svg)
